@@ -1,0 +1,145 @@
+state,x,y
+Usa,-205,80
+Russia,129,133
+Canada,-218,119
+Alaska,-244,139
+Greenland,-79,151
+Mexico,-225,45
+Guatemala,-200,25
+Honduras,-193,25
+Nicaragua,-189,19
+Costa Rica,-190,14
+Panama,-182,10
+Colombia,-172,-1
+Venezuela,-152,9
+Guyana,-139,4
+Surname,-133,-1
+French Guyana,-127,-2
+Equador,-181,-13
+Peru,-174,-27
+Chile,-156,-63
+Argentina,-142,-93
+Uruguay,-125,-84
+Paraguay,-138,-61
+Bolivia,-148,-46
+Brazil,-123,-36
+Cuba,-173,39
+Antarctica,43,-180
+Australia,241,-69
+New Zealand,300,-105
+Papua New Guinea,271,-23
+Indonesia,257,-19
+Malaysia,186,0
+Sri Lanka,143,7
+Philippines,225,20
+Vietnam,197,16
+Cambodia,190,18
+Laos,191,26
+Thailand,182,28
+Burma,170,40
+Bhutan,158,52
+Nepal,142,56
+Bangladesh,156,44
+India,134,43
+Pakistan,113,56
+Afghanistan,107,66
+China,175,70
+Japan,242,72
+South Korea,223,74
+North Korea,217,80
+Mongolia,168,96
+Kazakhstan,103,102
+Kyrgyzstan,120,85
+Uzbekistan,93,89
+Tajikistan,112,78
+Iran,86,65
+Azerbaijan,71,83
+Georgia,61,87
+Armenia,64,83
+Turkey,47,80
+Iraq,65,68
+Syria,55,69
+Jordan,52,61
+Israel,49,65
+Saudi Arabia,65,47
+Oman,93,37
+Yemen,73,25
+Kuwait,74,57
+UAE,86,45
+Ukraine,39,103
+Belarus,31,112
+Finland,26,130
+Sweden,9,128
+Norway,-4,129
+United Kingdom,-22,119
+Ireland,-32,109
+Iceland,-44,135
+Estonia,27,124
+Latvia,26,119
+Lithuania,20,119
+Denmark,-2,118
+Portugal,-35,81
+Spain,-26,81
+France,-14,96
+Belgium,-9,105
+Netherlands,-8,110
+Switzerland,-2,97
+Italy,6,86
+Germany,-1,104
+Check Republic,7,104
+Austria,8,99
+Slovakia,17,101
+Romania,25,94
+Hungary,17,98
+Bosnia,15,90
+Croatia,11,94
+Bulgaria,30,88
+Serbia,20,90
+Albania,19,84
+Greece,22,78
+Macedonia,22,85
+Egypt,38,54
+Libya,11,53
+Tunisia,-2,68
+Algeria,-16,57
+Morocco,-34,63
+Western Sahara,-45,47
+Mauritania,-38,35
+Mali,-25,31
+Niger,-1,29
+Chad,19,25
+Sudan,36,26
+Eritrea,57,26
+Ethiopia,63,13
+Somalia,71,-1
+Kenya,54,-11
+Uganda,45,-7
+Central Africa Republic,21,6
+Congo Dr,26,-16
+Cameron,5,1
+Nigeria,-5,11
+Benin,-16,14
+Togo,-19,10
+Ghana,-23,7
+Burkina Faso,-24,19
+Cote Divore,-31,7
+Liberia,-40,6
+Sierra Leona,-44,11
+Guinea,-43,15
+Senegal,-50.0,25.0
+Guinea Bissau,-50.0,19.0
+Congo,11.0,-9.0
+Gabon,1,-13
+Rwanda,41,-15
+Burundi,40,-17
+Tanzania,49,-22
+Mozambique,56,-42
+Madagascar,74,-55
+Malawi,50,-43
+Zambia,29,-43
+Zimbabwe,38,-52
+Angola,13,-39
+Namibia,12,-61
+Botswana,28,-60
+South Africa,24,-75
+Lesotho,36,-78
